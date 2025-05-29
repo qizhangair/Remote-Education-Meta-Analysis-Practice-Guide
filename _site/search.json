@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Remote Ed Meta Practice Guide",
+    "objectID": "find_evidence.html",
+    "href": "find_evidence.html",
+    "title": "Summary of Effective Strategies and Studies",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This page will have a shiny app embedded…\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "What Works in Remote Math and Science Education",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Project Overview\nWe conducted a meta-analysis and found results. Remote education is effective.\nStudy Spotlight\nFeedback is good, so is frequent engagement."
+  },
+  {
+    "objectID": "aboutus.html",
+    "href": "aboutus.html",
+    "title": "About Us",
+    "section": "",
+    "text": "#Project Team\nLaura, Qi, Natalie, Kamal, Sarah\n\nThis material is based upon work supported by the National Science Foundation under Grant No. [insert grant number here]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
   }
 ]

@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "What Works in Remote Math and Science Education"
+subtitle: "Findings from a Meta-Analysis"
+format:
+  html:
+    title-block-style: default
+    title-block-align: center
 ---
 
-About this site
+![](images/ChatGPT%20Image%20Apr%208,%202025,%2002_05_49%20PM.png){fig-align="center" width="848"}
 
-```{r}
-1 + 1
-```
+**Project Overview**
+
+We conducted a meta-analysis and found results. Remote education is effective.
+
+**Study Spotlight**
+
+Feedback is good, so is frequent engagement.

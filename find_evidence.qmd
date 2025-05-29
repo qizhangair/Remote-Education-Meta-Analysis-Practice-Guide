@@ -1,0 +1,9 @@
+---
+title: "Summary of Effective Strategies and Studies"
+---
+
+This page will have a shiny app embedded...
+
+```{r}
+1 + 1
+```
