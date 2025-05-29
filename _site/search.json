@@ -4,14 +4,14 @@
     "href": "find_evidence.html",
     "title": "Summary of Effective Strategies and Studies",
     "section": "",
-    "text": "This page will have a shiny app embedded…\n\n1 + 1\n\n[1] 2"
+    "text": "Use the filters below to browse interventions by instructional feature. Each card shows the intervention name, a short description, the study it came from, and its effect size.\n\n\n Feedback  Direct Instruction + Collaboration  2–3x per Week\n\n\n\n\n&lt;!-- Card 1 --&gt;\n&lt;div class=\"card feedback direct-collab frequent\"&gt;\n  &lt;h3&gt;Math Matters Program&lt;/h3&gt;\n  &lt;p&gt;&lt;strong&gt;Study:&lt;/strong&gt; Smith et al. (2022)&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Combines direct instruction with peer collaboration and regular feedback.&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Grade 6 Math Achievement&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Effect Size:&lt;/strong&gt; +0.48 SD&lt;/p&gt;\n  &lt;a href=\"https://osf.io/example\" target=\"_blank\"&gt;View Study&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;!-- Card 2 --&gt;\n&lt;div class=\"card feedback\"&gt;\n  &lt;h3&gt;Science Sparks&lt;/h3&gt;\n  &lt;p&gt;&lt;strong&gt;Study:&lt;/strong&gt; Johnson et al. (2021)&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Feedback-focused science lessons with reinforcement quizzes.&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Grade 8 Science Comprehension&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Effect Size:&lt;/strong&gt; +0.32 SD&lt;/p&gt;\n  &lt;a href=\"https://osf.io/example2\" target=\"_blank\"&gt;View Study&lt;/a&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "What Works in Remote Math and Science Education",
     "section": "",
-    "text": "Project Overview\nWe conducted a meta-analysis and found results. Remote education is effective.\nStudy Spotlight\nFeedback is good, so is frequent engagement."
+    "text": "Project Overview\nAlthough remote learning models have existed for decades, their relevance surged during the COVID-19 pandemic, which prompted widespread school closures and shifted millions of students into online learning environments. This disruption highlighted the urgent need to understand which forms of remote instructional approaches are effective—and for whom.\nDespite the rapid adoption of remote learning tools, education leaders continue to face a lack of clear, evidence-based guidance on the effectiveness of math and science programs. Existing reviews have largely overlooked these subject areas and rarely explore how program effectiveness varies by student characteristics, program features, or contextual factors.\nThis meta-analysis addresses these gaps by synthesizing findings from randomized controlled trials (RCTs) of remote learning interventions in PreK–12 math and science education. The goal is to generate actionable insights into the effectiveness of these interventions and identify the conditions under which they are most successful.\nHow to Use This Site\nNavigate to the Find What Works page to explore key findings from our meta-analysis. There, you can browse studies and interventions that demonstrate positive effects on student achievement.\nVisit the Resources page to access our project brief, learn more about the team and research through our project website, and explore open-source data and materials shared on the Open Science Framework (OSF)."
   },
   {
     "objectID": "aboutus.html",
@@ -19,5 +19,12 @@
     "title": "About Us",
     "section": "",
     "text": "#Project Team\nLaura, Qi, Natalie, Kamal, Sarah\n\nThis material is based upon work supported by the National Science Foundation under Grant No. [insert grant number here]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."
+  },
+  {
+    "objectID": "find_evidence.html#explore-effective-remote-learning-interventions",
+    "href": "find_evidence.html#explore-effective-remote-learning-interventions",
+    "title": "Summary of Effective Strategies and Studies",
+    "section": "",
+    "text": "Use the filters below to browse interventions by instructional feature. Each card shows the intervention name, a short description, the study it came from, and its effect size.\n\n\n Feedback  Direct Instruction + Collaboration  2–3x per Week\n\n\n\n\n&lt;!-- Card 1 --&gt;\n&lt;div class=\"card feedback direct-collab frequent\"&gt;\n  &lt;h3&gt;Math Matters Program&lt;/h3&gt;\n  &lt;p&gt;&lt;strong&gt;Study:&lt;/strong&gt; Smith et al. (2022)&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Combines direct instruction with peer collaboration and regular feedback.&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Grade 6 Math Achievement&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Effect Size:&lt;/strong&gt; +0.48 SD&lt;/p&gt;\n  &lt;a href=\"https://osf.io/example\" target=\"_blank\"&gt;View Study&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;!-- Card 2 --&gt;\n&lt;div class=\"card feedback\"&gt;\n  &lt;h3&gt;Science Sparks&lt;/h3&gt;\n  &lt;p&gt;&lt;strong&gt;Study:&lt;/strong&gt; Johnson et al. (2021)&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Feedback-focused science lessons with reinforcement quizzes.&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt; Grade 8 Science Comprehension&lt;/p&gt;\n  &lt;p&gt;&lt;strong&gt;Effect Size:&lt;/strong&gt; +0.32 SD&lt;/p&gt;\n  &lt;a href=\"https://osf.io/example2\" target=\"_blank\"&gt;View Study&lt;/a&gt;\n&lt;/div&gt;"
   }
 ]
