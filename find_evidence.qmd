@@ -1,72 +1,46 @@
 ---
-title: "Summary of Effective Strategies and Studies"
+title: "Explore Effective Remote Learning Interventions"
 format: html
 ---
 
-## Explore Effective Remote Learning Interventions
+This page highlights effective strategies organized by instructional features. Scroll to explore programs that emphasize feeedback, direct instruction with collaboration, and frequent engagement (2–3 times per week).
 
-Use the filters below to browse interventions by instructional feature. Each card shows the intervention name, a short description, the study it came from, and its effect size.
+------------------------------------------------------------------------
 
-<!-- Filter checkboxes -->
+## 🔁 Feedback-Based Interventions
 
-::: {.filters style="margin-bottom: 1.5em;"}
-<label><input type="checkbox" class="filter" data-filter="feedback"> Feedback</label> <label><input type="checkbox" class="filter" data-filter="direct-collab"> Direct Instruction + Collaboration</label> <label><input type="checkbox" class="filter" data-filter="frequent"> 2–3x per Week</label>
-:::
+### Math Matters Program
 
-<!-- Card container -->
+-   **Study:** Smith et al. (2022)\
+-   **Description:** Combines direct instruction with peer collaboration and regular feedback\
+-   **Outcome:** Grade 6 Math Achievement\
+-   **Effect Size:** +0.48 SD
 
-:::: {#intervention-list}
-::: list
-```         
-<!-- Card 1 -->
-<div class="card feedback direct-collab frequent">
-  <h3>Math Matters Program</h3>
-  <p><strong>Study:</strong> Smith et al. (2022)</p>
-  <p><strong>Description:</strong> Combines direct instruction with peer collaboration and regular feedback.</p>
-  <p><strong>Outcome:</strong> Grade 6 Math Achievement</p>
-  <p><strong>Effect Size:</strong> +0.48 SD</p>
-  <a href="https://osf.io/example" target="_blank">View Study</a>
-</div>
+### Science Sparks
 
-<!-- Card 2 -->
-<div class="card feedback">
-  <h3>Science Sparks</h3>
-  <p><strong>Study:</strong> Johnson et al. (2021)</p>
-  <p><strong>Description:</strong> Feedback-focused science lessons with reinforcement quizzes.</p>
-  <p><strong>Outcome:</strong> Grade 8 Science Comprehension</p>
-  <p><strong>Effect Size:</strong> +0.32 SD</p>
-  <a href="https://osf.io/example2" target="_blank">View Study</a>
-</div>
-```
-:::
-::::
+-   **Study:** Johnson et al. (2021)\
+-   **Description:** Feedback-focused science lessons with reinforcement quizzes\
+-   **Outcome:** Grade 8 Science Comprehension\
+-   **Effect Size:** +0.32 SD\
 
-<!-- JavaScript filtering logic -->
+------------------------------------------------------------------------
 
-```{=html}
-<script>
-  const cards = document.querySelectorAll('.card');
-  const checkboxes = document.querySelectorAll('.filter');
+## 👥 Direct Instruction + Collaboration
 
-  checkboxes.forEach(cb => {
-    cb.addEventListener('change', () => {
-      const activeFilters = Array.from(checkboxes)
-        .filter(c => c.checked)
-        .map(c => c.dataset.filter);
+### Math Matters Program
 
-      cards.forEach(card => {
-        const matches = activeFilters.every(filter =>
-          card.classList.contains(filter)
-        );
-        card.style.display = matches || activeFilters.length === 0 ? 'block' : 'none';
-      });
-    });
-  });
-</script>
-```
+-   **Study:** Smith et al. (2022)\
+-   **Description:** Combines direct instruction with peer collaboration and regular feedback\
+-   **Outcome:** Grade 6 Math Achievement\
+-   **Effect Size:** +0.48 SD
 
-<!-- Basic CSS to style the cards -->
+------------------------------------------------------------------------
 
-<style>
+## 🔁 Frequent Interactions (2–3x/week)
 
-.card { border: 1px solid #ccc; border-radiu
+### Math Matters Program
+
+-   **Study:** Smith et al. (2022)\
+-   **Frequency:** Interactions occurred 2–3 times weekly\
+-   **Outcome:** Grade 6 Math Achievement\
+-   **Effect Size:** +0.48 SD
