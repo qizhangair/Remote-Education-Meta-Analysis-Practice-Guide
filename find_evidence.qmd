@@ -3,25 +3,61 @@ title: "Explore Effective Remote Learning Interventions"
 format: html
 ---
 
-This page highlights effective strategies organized by instructional features. Scroll to explore programs that emphasize feeedback, direct instruction with collaboration, and frequent engagement (2–3 times per week).
+Our review of remote learning programs in math and science highlights three key features that consistently contribute to effectiveness: **structured instructional design**, **consistent engagement**, and **personalized feedback**. Programs that combined direct instruction with collaborative learning were especially impactful, suggesting that a balance of structured guidance and peer interaction may be optimal for remote STEM education. Additionally, consistent student interaction was associated with better outcomes, though our findings indicate that effectiveness peaks with regular—but not necessarily daily—engagement. Finally, programs that included feedback and personalized support showed stronger results, underscoring the value of tailoring instruction to student needs in remote settings where real-time teacher contact may be limited.
+
+This page highlights these effective strategies, organized by key instructional features. **Scroll down** or **use the menu on the left** to explore example programs that incorporate direct instruction, collaborative learning, consistent student interaction, and personalized feedback.
 
 ------------------------------------------------------------------------
 
-## 🔁 Feedback-Based Interventions
+## Structured Instructional Design
 
-### Math Matters Program
+### [GO Solve Word Problems]{.intervention-title}
 
--   **Study:** Smith et al. (2022)\
--   **Description:** Combines direct instruction with peer collaboration and regular feedback\
--   **Outcome:** Grade 6 Math Achievement\
--   **Effect Size:** +0.48 SD
+::: custom-card
+-   **Study:** Fede, J. L., Pierce, M. E., Matthews, W. J., & Wells, C. S. (2013). The Effects of a Computer-Assisted, Schema-Based Instruction Intervention on Word Problem-Solving Skills of Low-Performing Fifth Grade Students. *Journal of Special Education Technology*, *28*(1), 9-21. <https://doi.org/10.1177/016264341302800102>
 
-### Science Sparks
+-   **Intervention:** GO Solve Word Problems uses a carefully sequenced approach to teach math word problem-solving, guiding students through step-by-step tutorials, worked examples, and interactive practice. Each module builds on prior learning, beginning with short animated lessons that introduce problem types, followed by targeted practice and review. Visual models, such as graphic organizers, help students represent mathematical relationships, and students must meet clear performance benchmarks before progressing. This consistent, scaffolded structure helps ensure students develop a solid understanding of how to approach and solve different types of word problems.
 
--   **Study:** Johnson et al. (2021)\
--   **Description:** Feedback-focused science lessons with reinforcement quizzes\
--   **Outcome:** Grade 8 Science Comprehension\
--   **Effect Size:** +0.32 SD\
+-   **Implementation**: The intervention was implemented over a 12-week period, with students in the experimental group using the GO Solve Word Problems software twice a week for 30-minute sessions during school hours.
+
+-   **Sample:** 32 fifth-grade students from one middle school in Western Massachusetts. All students were identified as struggling with word problems.
+
+-   **Outcome:** MCAS Word Problem Subset – A researcher-selected subset of word problems from past Massachusetts Comprehensive Assessment System (MCAS) tests.
+
+-   **Effect Size:** +0.46 SD
+:::
+
+### [I CAN Learn®]{.intervention-title}
+
+::: custom-card
+-   **Study:** Barrow, L., Markman, L., & Rouse, C. E. (2009). Technology’s edge: The educational benefits of computer-aided instruction. *American Economic Journal: Economic Policy, 1*(1), 52–74. https://doi.org/10.1257/pol.1.1.52
+
+-   **Intervention:** I CAN Learn® (ICL) is a computer-based mathematics curriculum designed to support student learning in Algebra and Pre-Algebra through interactive lessons aligned with NCTM standards. The program includes over 600 lessons presented in a sequenced, mastery-based format that combines video-based instruction, guided practice, and immediate feedback. Students proceed at their own pace, and the system automatically adjusts to their performance, allowing for differentiated instruction.
+
+-   **Implementation:** The intervention was implemented as part of regular school instruction in middle and high schools. Students used the computer-based curriculum in dedicated computer labs for one full class period per day, typically replacing their traditional math class. The implementation spanned an entire academic year, during which students progressed through sequenced lessons covering Pre-Algebra and Algebra I content.
+
+-   **Sample:** 1,588 middle and high school students across three urban school districts in the U.S.
+
+-   **Outcome:** NWEA Algebra Achievement Test
+
+-   **Effect Size:** +0.36 SD
+:::
+
+### [Assessment and Learning in Knowledge Spaces (ALEKS)]{.intervention-title}
+
+::: custom-card
+-   **Study:** Wilder, S., & Berry, L. (2016). Emporium model: The key to content retention in secondary math courses. *Journal of Educators Online, 13*(2), 53–75. https://doi.org/10.9743/JEO.2016.2.5
+
+-   **Intervention:** ALEKS, an adaptive online learning system that created individualized learning paths based on a diagnostic placement test. Students progressed through math content at their own pace, receiving immediate feedback and periodic reassessments to ensure mastery. Teachers did not provide whole-class instruction but offered targeted, one-on-one support when students requested help. The structure emphasized mastery learning, frequent checks for understanding, and clear performance benchmarks, allowing students to advance only after demonstrating proficiency.
+
+-   **Implementation:** Students used the web-based ALEKS platform during scheduled class periods over a semester, with learning time dedicated to working independently in the system.
+
+-   **Sample:** 62 high school students enrolled in an Algebra I course at a rural high school.
+
+-   **Outcome:** Teacher-created assessments aligned with the Algebra I curriculum.
+
+-   **Effect Size:** +0.45 SD
+:::
 
 ------------------------------------------------------------------------
 
